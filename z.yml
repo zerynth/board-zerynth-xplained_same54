@@ -1,0 +1,15 @@
+---
+description: Add support for Xplained Pro SamE54
+fullname: board.zerynth.xplained_same54
+info:
+    board: SAM E54 Xplained Dev Board
+    chip_manufacturer: Microchip/Atmel
+    device: same54
+    family_type: ARM Cortex M4
+keywords:
+- same54
+- board
+- atmel
+- microchip
+title: Xplained Pro SamE54 Support Package
+...
